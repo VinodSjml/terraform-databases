@@ -1,0 +1,3 @@
+docdb:
+    source:  "https://github.com/VinodSjml/tf-module-docdb.git"
+    version: "main"
