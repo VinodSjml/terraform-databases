@@ -1,2 +1,0 @@
-# terraform-vpc
-terraform-vpc
